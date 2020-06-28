@@ -5,7 +5,9 @@ import '../../components/directort-item/directory.component'
 import Directory from '../../components/directort-item/directory.component'
 
 const HomePage = ()=>(
+        
 <div className="homePage">
+        
         <Directory/>     
 </div>
     
